@@ -8,7 +8,8 @@
  
  Voi crea o Bază de Date în MySQL iar pentru aceasta voi avea nevoie să instalez:
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
-- [MySQL Database Server](https://download.cnet.com/MySQL-Database-Server/3000-10254_4-10585640.html)
+- [MySQL Database Server](https://download.cnet.com/MySQL-Database-Server/3000-10254_4-10585640.html.
+- 
 MySQL Workbench este o aplicație client dezvoltată de MySQL; aici  vom scrie instrucțiunile pe care le va procesa MySQL Database Server(creierul). 
 Voi începe cu definirea structurii unei baze de date de la 0 pe baza conceptelor de arhitectură de baze de date(DDL) , iar mai apoi voi face diferite acțiuni de interacțiune cu baza de date (DML și DQL)
 
