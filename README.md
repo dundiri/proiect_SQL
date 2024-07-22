@@ -31,4 +31,6 @@ Principalele patru categorii de instrucțiuni sau subseturi ale SQL sunt:
 ********************************************************
 
 
-Voi crea o bază de date pe care  o voi numi **petclinic**, unde voi stoca date privitoare la animăluțele care au avut nevoie de îngrijiri medicale, date ale proprietarilor acestora, precum și date ale medicilor care deservesc această clinică.
+Voi crea o bază de date pe care  o voi numi **petclinic**, unde voi stoca date privitoare la animăluțele care au avut nevoie de îngrijiri medicale, date ale proprietarilor acestora, precum și date ale medicilor care deservesc această clinică.   
+
+TO BE CONTINUED
